@@ -3,7 +3,7 @@
 <h4 align="center">Dataset</h4>
 <p align="center">2D Spectrograms of deep space signals are taken for analysis from SETI laboratory (https://drive.google.com/drive/folders/13L9jFnThO7lxBsToQkQZ9TUYazIK9mWR?usp=sharing).</p> 
 <h4 align="center">Packages</h4>
-Keras- tensorflow framework for backend, Sklearn, Matplotlib, Numpy, Pandas and seaborn.
+<p align="center">Keras- tensorflow framework for backend, Sklearn, Matplotlib, Numpy, Pandas and seaborn.</p>
 <h4 align="center">Code</h4>
 <p align="center">Check out the .ipynb file (Jupyter Notebook)</p>
 <h4 align="center">Contributions</h4>
